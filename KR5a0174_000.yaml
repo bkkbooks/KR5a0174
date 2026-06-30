@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5a0174/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金蓮正宗記序致四道無終始教有後先或曰道與教不同乎曰不同湛寂真常道也傳法度人教也道之為體雖經無數劫未嘗少變教之為用有時而廢有時而興或曰教之興也自何而始曰軒轅黃帝鑄鼎之後乘火龍而飛升太虛然後知有長生久視之說雖有其說知而行之者七十二人而已下逮殷王武丁之世老君示現於瀨陽東臨魏關西度流沙演化者九百九十六歲乃跨白鹿升蒼檜超碧落遊玉京雖有如此顯異而人猶顢頇而未知信向也及漢天師張靜應之出世也親受正一法籙戰鬼獄而為福庭度道士而為祭酒其教甚盛化行四海繼之以寇吳杜葉祛妖馘崇集福禳灾佐國救民代天行化歷數十世宫觀如林帝王崇奉及正和之後林天師屢出神變天子信向法教方興而性命之說猶為沉滯而未之究也及炎宋之訖録挺生重陽再弘法教專為性命之說普化三州同歸五會以金蓮居其首東遊海上度者七人以柔弱謙下為表以清靜虛無為內以九還七返為實以千變萬化為權更其名曰全真易其衣而衲甲逮我長春子丘神仙受皇帝之宣應陰山之聘勸之以减酒色戒之以少殺戮一言愷切萬國生春救億兆於鼎鑊刀鋸之間人心歸向者如百川赴海而莫之能禦也牧竪堯童咸知稽首東夷西戎皆詠步虛家家談道德之風處處講希夷之說懶衣髽髻雲連乎道路之間琳宇瑶壇星布乎山澤之下自軒轅以來教門弘盛未有如今日者是教也源於東華流於重陽派於長春而今而後滔滔溢溢未可得而知其極也故作金蓮正宗記時太歲辛丑平水長春壺天述
+  hash: sha256:3f85ae261d7cb27a4844e404c4eee411619ad98a25a4042876486e65f5fbd850
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0174_HFL_000-001a, image: hfl/0075/0075-106.png}
+metadata:
+  title: 金蓮正宗記
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:39:48.196529'
+  source:
+    repository: kanripo
+    path: KR5a0174/KR5a0174_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:572bd8a20a54d9993b80ffd8f3cedff57568ab4569f3af212c391f95a89d0c10

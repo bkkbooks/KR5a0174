@@ -1,0 +1,219 @@
+canonical_identifier: bkk:krp/KR5a0174/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0174/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金蓮正宗記
+  date: '2015-08-28 23:39:48.196529'
+  source:
+    repository: kanripo
+    path: KR5a0174
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0174_000-CK-KZ-jye.yaml, hash: 'sha256:300761ed19f71d09c1db2ebd684bd75a33d476e33fb26be6054553beb1c572e8'}
+  - {seq: 1, filename: KR5a0174_001-CK-KZ-jye.yaml, hash: 'sha256:8d14cb4e4aa274507f4a0972e5b877eae32bf543f7ba5c0a67d90f27a4020238'}
+  - {seq: 2, filename: KR5a0174_002-CK-KZ-jye.yaml, hash: 'sha256:065157bb04f78c24b60bcad6c84ce27d0e177b2b15cac998eede5fd2400847df'}
+  - {seq: 3, filename: KR5a0174_003-CK-KZ-jye.yaml, hash: 'sha256:4a9eafaa340319eecac0af990abdcb8550d1f33feb9cd2d6003373c5bd99251b'}
+  - {seq: 4, filename: KR5a0174_004-CK-KZ-jye.yaml, hash: 'sha256:268e8023e183884a9280fea389a9d813dda488de50debc82568106e56d546970'}
+  - {seq: 5, filename: KR5a0174_005-CK-KZ-jye.yaml, hash: 'sha256:0d5040709e0ff0b124aacda4892148baf345e84eb09bd0f77d3f0a34fea5e6ed'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0174_000-CK-KZ-jye.markers.yaml, hash: 'sha256:d469fa3afe80e70f6ec7684e699b62b0cd00fe1f6a654229c47b384203836547'}
+  - {seq: 1, role: markers, filename: assets/KR5a0174_001-CK-KZ-jye.markers.yaml, hash: 'sha256:25cb03def00b37040764275c02eb23d45327e31d537d43a53be5be3012897e36'}
+  - {seq: 2, role: markers, filename: assets/KR5a0174_002-CK-KZ-jye.markers.yaml, hash: 'sha256:59128ecb3619e72db4bcfa5c3a41e95688cc4373a1a20640b4788f19a3274451'}
+  - {seq: 3, role: markers, filename: assets/KR5a0174_003-CK-KZ-jye.markers.yaml, hash: 'sha256:7fcf397e709552b5e2a58198d9791ded49263f12972c701f595572138e58194d'}
+  - {seq: 4, role: markers, filename: assets/KR5a0174_004-CK-KZ-jye.markers.yaml, hash: 'sha256:774b287cad0670726c3c36bc493f10a0878c4e4fab975eca97e75d811429dd5b'}
+  - {seq: 5, role: markers, filename: assets/KR5a0174_005-CK-KZ-jye.markers.yaml, hash: 'sha256:e0995b423a45c661c7347aeaa7ed02a5c94379b10f75372c4885b117f679e12c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0174_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 541
+  label: 金蓮正宗記序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0174_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 509
+  label: 東華帝君
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5a0174_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 509
+    - 1523
+  label: 正陽鍾離真君
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5a0174_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 1523
+    - 2629
+  label: 純陽呂真人
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5a0174_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 2629
+    - 3333
+  label: 海蟾劉真人
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0174_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 2609
+  label: 重陽王真人
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0174_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 2609
+    - 2670
+  label: 書
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0174_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 2670
+    - 2896
+  label: 詩曰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0174_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 2896
+    - 3747
+  label: 玉蟾和真人
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0174_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 3747
+    - 4170
+  label: 靈陽李真人
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0174_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 4170
+    - 4170
+  label: 丹陽馬真人
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5a0174_CK-KZ_02p018b
+    span:
+    - body
+    - 0
+    - 165
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5a0174_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 732
+  label: 長真譚真人
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5a0174_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 732
+    - 1988
+  label: 長生劉真人
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5a0174_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 1988
+    - 4158
+  label: 長春邱真人
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5a0174_CK-KZ-jye_005-h1
+    span:
+    - body
+    - 0
+    - 1680
+  label: 玉陽王真人
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5a0174_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 1680
+    - 2652
+  label: 廣寧郝真人
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5a0174_CK-KZ-jye_005-h3
+    span:
+    - body
+    - 2652
+    - 3474
+  label: 清靜散人
+  type: section
+  level: 2
+hash: sha256:c467b09b9db3a748ae9e687c6b37a7ced2707daa80bf8beae3c9ca3ccb0d02a3
