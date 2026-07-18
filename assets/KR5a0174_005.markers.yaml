@@ -1381,6 +1381,7 @@ markers:
   - {type: variant, offset: 3491, length: 9, content: 金蓮正宗記卷之五終, CK-KZ-jye: ''}
   - {type: variant, offset: 3491, length: 9, content: 金蓮正宗記卷之五終, YP-C: ''}
   - {type: punctuation, offset: 3499, content: (, id: KR5a0174_krp_005-bkkpn1}
+  - {type: voice, offset: 3499, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3500, content: ), id: KR5a0174_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 3500, content: '
 
@@ -1401,4 +1402,4 @@ markers:
 
       ', id: KR5a0174_krp_005-bkkkrnewl241}
   back: []
-hash: sha256:5284ced7d1dccb1b37186ba67817ed7f75ed17aad698824dd75b71aea78a4f68
+hash: sha256:cd9a35017307247a4d060cca5b7ca30b6638aade65b82c9d78a0273e08b0ee65
